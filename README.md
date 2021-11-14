@@ -1,4 +1,4 @@
-# trading_ai_app
+# Greenient
 
 A new Flutter project.
 

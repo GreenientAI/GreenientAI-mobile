@@ -1,4 +1,4 @@
-package com.example.trading_ai_app
+package com.example.Greenient
 
 import io.flutter.embedding.android.FlutterActivity
 

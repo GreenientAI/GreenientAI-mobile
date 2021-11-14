@@ -1,6 +1,6 @@
 {
-    "name": "trading_ai_app",
-    "short_name": "trading_ai_app",
+    "name": "Greenient",
+    "short_name": "Greenient",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
